@@ -4,12 +4,34 @@
 
 **About the dataset**
 The Breast Cancer Wisconsin dataset contains the following features, which are computed from digitized images of breast cancer tissue:
-1. mean radius: Mean of distances from the center to points on the perimeter.
-2. mean texture: Standard deviation of gray-scale values.
-3. mean perimeter: Mean length of the cancer cell’s perimeter.
-4. mean area: Mean area of the cell nuclei.
-5. mean smoothness: Mean of local variation in radius lengths.
-6. mean compactness: Mean of the ratio of (perimeter^2 / area - 1.0).
-7. mean concavity: Mean of the severity of concave portions of the contour.
-8. mean concave points: Mean number of concave portions of the contour.
-9. mean symmetry: Mean of symmetry of the cell nuclei.
+- mean radius
+- mean texture
+- mean perimeter
+- mean area
+- mean smoothness
+- mean compactness
+- mean concavity
+- mean concave points
+- mean symmetry
+- mean fractal dimension
+- radius error
+- texture error
+- perimeter error
+- area error
+- smoothness error
+- compactness error
+- concavity error
+- concave points error
+- symmetry error
+- fractal dimension error
+- worst radius
+- worst texture
+- worst perimeter
+- worst area
+- worst smoothness
+- worst compactness
+- worst concavity
+- worst concave points
+- worst symmetry
+- worst fractal dimension
+
